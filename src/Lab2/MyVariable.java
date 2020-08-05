@@ -1,4 +1,4 @@
-package Lad2;
+package Lab2;
 
 public class MyVariable {
 
